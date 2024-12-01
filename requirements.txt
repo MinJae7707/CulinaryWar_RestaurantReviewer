@@ -1,0 +1,12 @@
+selenium
+pandas
+beautifulsoup4
+tabulate
+openai
+openpyxl
+geopy
+wordcloud
+
+streamlit
+
+## pip install -r requirements.txt
